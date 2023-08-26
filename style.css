@@ -1,0 +1,19 @@
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+   }
+.nav{
+    height: 30px;
+    width: 100;
+    background-color: aquamarine;
+   
+    
+}
+
+li,ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 4px;
+    margin-left: 4px;
+    
+}
